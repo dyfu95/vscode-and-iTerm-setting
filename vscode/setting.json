@@ -1,0 +1,81 @@
+{
+	"editor.fontSize": 16,
+	"terminal.integrated.fontSize": 16,
+	"terminal.external.osxExec": "iTerm.app",
+	"terminal.integrated.defaultProfile.osx": "zsh",
+	"terminal.integrated.cursorStyle": "line",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+	"workbench.colorCustomizations": {
+		"terminal.background": "#282936",
+		"terminal.foreground": "#E9E9F4",
+		"terminalCursor.background": "#E9E9F4",
+		"terminalCursor.foreground": "#E9E9F4",
+		"terminal.ansiBlack": "#282936",
+		"terminal.ansiBlue": "#62D6E8",
+		"terminal.ansiBrightBlack": "#626483",
+		"terminal.ansiBrightBlue": "#62D6E8",
+		"terminal.ansiBrightCyan": "#A1EFE4",
+		"terminal.ansiBrightGreen": "#EBFF87",
+		"terminal.ansiBrightMagenta": "#B45BCF",
+		"terminal.ansiBrightRed": "#EA51B2",
+		"terminal.ansiBrightWhite": "#F7F7FB",
+		"terminal.ansiBrightYellow": "#00F769",
+		"terminal.ansiCyan": "#A1EFE4",
+		"terminal.ansiGreen": "#EBFF87",
+		"terminal.ansiMagenta": "#B45BCF",
+		"terminal.ansiRed": "#EA51B2",
+		"terminal.ansiWhite": "#E9E9F4",
+		"terminal.ansiYellow": "#00F769"
+	},
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"vue",
+		"graphql",
+		"javascript",
+		"typescriptreact"
+	],
+	"eslint.enable": true,
+	"cSpell.showAutocompleteSuggestions": true,
+	"editor.tabSize": 2,
+	"liveSassCompile.settings.includeItems": [],
+	"cSpell.languageSettings": [],
+	// "[typescriptreact]": {
+	//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+	// },
+	"eslint.autoFixOnSave": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"vscode-neovim.neovimExecutablePaths.darwin": "/opt/homebrew/bin/nvim",
+	"editor.fontLigatures": false,
+	"workbench.colorTheme": "One Dark Pro Flat",
+	"[vue]": {
+		"editor.defaultFormatter": "Vue.volar"
+	},
+	"terminal.integrated.cursorBlinking": true,
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.fontFamily": "'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"editor.unicodeHighlight.invisibleCharacters": false,
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+	"json.format.enable": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"workbench.settings.applyToAllProfiles": [
+		
+	],
+}
